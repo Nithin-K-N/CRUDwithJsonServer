@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "id": 101,
+      "name": "anu",
+      "email": "anu@yahoo.com",
+      "number": 9876987609
+    },
+    {
+      "id": 102,
+      "name": "ann",
+      "email": "ann@gmail.com",
+      "number": 9876987609
+    },
+    {
+      "id": 103,
+      "name": "abi",
+      "email": "abi@gmail.com",
+      "number": 9876987609
+    },
+    {
+      "id": 104,
+      "name": "dev",
+      "email": "dev@gmail.com",
+      "number": 9876987609
+    },
+    {
+      "id": 105,
+      "name": "ram",
+      "email": "ram@gmail.com",
+      "number": 9876987609
+    },
+    {
+      "id": 106,
+      "name": "lal",
+      "email": "lal@yahoo.com",
+      "number": 9876987609
+    },
+    {
+      "id": 107,
+      "name": "sree",
+      "email": "sree@yahoo.com",
+      "number": 9876987609
+    },
+    {
+      "id": "109",
+      "name": "hari",
+      "email": "hari@gmail.com",
+      "number": "9089786756"
+    }
+  ]
+}
